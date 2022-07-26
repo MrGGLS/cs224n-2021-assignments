@@ -2,6 +2,8 @@
 
 My solutions for cs224n 2021 assignments and some papers you may need to see
 
+<p align="center"><img src="images/image-20220726144019311.png"/></p>
+
 ---
 
 All these codes work well in my machine and colab.
